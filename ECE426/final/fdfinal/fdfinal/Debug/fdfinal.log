@@ -1,0 +1,4 @@
+﻿  FileDirectory.cpp
+c:\users\bobby\dropbox\school\school-projects\ece426\newfd\filedirectory\filedirectory\filedirectory\filedirectory.cpp(190): warning C4101: 'i': unreferenced local variable
+  fdfinal.vcxproj -> C:\Users\Bobby\Dropbox\School\school-projects\ECE426\final\fdfinal\Debug\fdfinal.exe
+  fdfinal.vcxproj -> C:\Users\Bobby\Dropbox\School\school-projects\ECE426\final\fdfinal\Debug\fdfinal.pdb (Partial PDB)

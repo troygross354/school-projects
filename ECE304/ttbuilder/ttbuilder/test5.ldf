@@ -1,0 +1,7 @@
+3	and0	AND	C	1	2
+4	and1	and	d	1	b
+5	and2	and	e	2	a
+6	and4	and	a	b	f
+1	nota	not	a
+2	notb	NOT	B
+7	MUX	OR	3	4	5	6

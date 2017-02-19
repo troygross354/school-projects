@@ -1,0 +1,5 @@
+5	carry	nand	3	4	2
+1	sum	xor	A	B	c
+2	nand2	nAnD	A	C
+3	nAND1	nAND	A	B
+4	nAND3	nAND	B	C

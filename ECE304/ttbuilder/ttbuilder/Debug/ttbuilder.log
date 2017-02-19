@@ -1,0 +1,5 @@
+﻿  ttbuilder.cpp
+c:\users\bobby\dropbox\school\school-projects\ece304\ttbuilder\ttbuilder\ttbuilder.cpp(214): warning C4800: 'char': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\bobby\dropbox\school\school-projects\ece304\ttbuilder\ttbuilder\ttbuilder.cpp(220): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  ttbuilder.vcxproj -> C:\Users\Bobby\Dropbox\School\school-projects\ECE304\ttbuilder\Debug\ttbuilder.exe
+  ttbuilder.vcxproj -> C:\Users\Bobby\Dropbox\School\school-projects\ECE304\ttbuilder\Debug\ttbuilder.pdb (Partial PDB)
