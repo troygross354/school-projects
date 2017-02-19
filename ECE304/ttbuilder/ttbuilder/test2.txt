@@ -1,6 +1,0 @@
-3	Y0	and	1	2
-4	Y1	and	1	b
-5	Y2	and	2	a
-6	Y3	and	A	B
-1	nota	not	A
-2	notb	not	B
